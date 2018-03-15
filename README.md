@@ -47,7 +47,7 @@ cmake ..
 To install the generated libraries and public headers, run the following command in the terminal:
 
 ```bash
-sudo make install -j16
+sudo make install
 ```
 
 You should see the following output after installing all the services successfully:
