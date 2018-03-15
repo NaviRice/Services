@@ -2,7 +2,7 @@
 	path = common
 	url = https://github.com/NaviRice/Common
 
-[submodule "Rendering"]
+[submodule "Rendering Service"]
 	path = rendering
 	url = https://github.com/NaviRice/RenderingService
 
