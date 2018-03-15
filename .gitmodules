@@ -1,0 +1,11 @@
+[submodule "Common"]
+	path = common
+	url = https://github.com/NaviRice/Common
+
+[submodule "Rendering"]
+	path = rendering
+	url = https://github.com/NaviRice/RenderingService
+
+[submodule "Renderer Bridge"]
+	path = renderer_bridge
+	url = https://github.com/NaviRice/RenderingService
