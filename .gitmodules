@@ -8,4 +8,4 @@
 
 [submodule "Renderer Bridge"]
 	path = renderer_bridge
-	url = https://github.com/NaviRice/RenderingService
+	url = https://github.com/NaviRice/RenderingServiceBridge
